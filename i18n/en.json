@@ -4573,7 +4573,7 @@
   },
   {
     "id": "store.sql_channel.save_channel.exists.app_error",
-    "translation": "A channel with that URL already exists"
+    "translation": "A channel with that name already exists on the same team"
   },
   {
     "id": "store.sql_channel.save_channel.limit.app_error",
